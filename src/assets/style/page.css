@@ -1,0 +1,20 @@
+/* Color Palette Variables */
+:root {
+  /* Men's Section Colors */
+  --primary-men: #002772;
+  --text-men: #D6E6FF;
+  --accent-men: #1E1E1E;
+  
+  /* Women's Section Colors */
+  --primary-women: #720060;
+  --text-women: #FDE2FF;
+  --accent-women: #1E1E1E;
+  
+  /* Unavailable Product Colors */
+  --unavailable-bg: #DCDCDC;
+  --unavailable-text: #3F3F3F;
+  
+  /* Common Colors */
+  --white: #FFFFFF;
+  --black: #000000;
+}
